@@ -1,0 +1,95 @@
+body {
+	background: #E0E0E0;
+	font-family: Calibri;
+	font-size: 4vh;
+}
+
+img {
+	border-color: darkcyan;
+	border-style: solid;
+	height: 200px;
+	margin: 20px;
+}
+
+form {
+	margin: 4vh;
+}
+
+nav {
+	width: 30%;
+	overflow: auto;
+	position: fixed;
+	float: right;
+	right: 0px;
+	bottom: 0px;
+	top: 0px;
+	background: #C9C9C9;
+	border-color: lightgrey;
+	border-style: none none none solid;
+}
+
+nav h5 {
+	font-size: 4vh;
+	text-align: center;
+	background: rgb(180, 180, 180);
+	margin-top: 0px;
+	
+}
+
+a:link, a:visited {
+	color: darkcyan;
+}
+
+a:hover {
+color: purple;
+}
+
+ul.menu  {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul.menu li {
+	border-style: none none solid none;
+	border-color: lightgrey;
+	padding: 0;
+	margin: 0;
+}
+
+.pagina {
+	width: 65%;
+	float: left;
+	margin-top: 5vh;
+	
+}
+
+.title {
+	background: #999999;
+	margin: 0px;
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	height: 10%;
+	width: 70%;
+	overflow: auto;
+	border-style: none none solid none;
+	border-color: lightgrey;
+	padding-left: 10px;
+	
+}
+
+table {
+	border-style: solid;
+	border-color: darkcyan;
+	background: grey;
+}
+
+tbody.tabel {
+	background: #C9C9C9;
+
+}
+
+.tabelkop {
+	background: darkgrey
+}

@@ -91,5 +91,9 @@ tbody.tabel {
 }
 
 .tabelkop {
-	background: darkgrey
+	background: darkgrey;
+}
+
+.lijstwinnaars {
+	overflow: auto;
 }
